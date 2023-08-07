@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 my name is Deivis Rodriguez</h1>
 
-<h3 align="center">I am a Software Developer. I am currently focused on the world of web development with JavaScript, Vue, Vite and Vitest, React, Angular, among others, but I have also done projects with Java, PHP, TypeScript, C++ and Python. You can take a look at my portfolio at [https://deivisjoro.github.io](https://deivisjoro.github.io) </h3>
+<h3 align="center">I am a Software Developer. I am currently focused on the world of web development with JavaScript, Vue, Vite and Vitest, React, Angular, among others, but I have also done projects with Java, PHP, TypeScript, C++ and Python. You can take a look at my portfolio at https://deivisjoro.github.io</h3>
 
 <p align="center">   
   <a href="https://www.linkedin.com/in/deivisjoro" target="_blank">
